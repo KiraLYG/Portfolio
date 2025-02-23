@@ -4,7 +4,7 @@ add - Adding a note (go run DayList.go add "Your Note")
 
 list - View all notes (go run DayList.go list)
 
-delete - Deleting a note by id go run DayList.go delete (ID))
+delete - Deleting a note by id (go run DayList.go delete (ID))
 
 --RESTful_API.go--
 
